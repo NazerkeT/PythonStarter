@@ -1,0 +1,147 @@
+{
+  "faculty":[
+    "Anatoli Vakhguelt",
+    "Vasileios Zarikas",
+    "Ming Yang",
+    "Vipin Kinzheppatt",
+    "Asma Perveen"
+  ],
+  "courses":[
+    {
+      "name":"Engineering Mechanics",
+      "abbr": "BENG 117",
+      "type": "L",
+      "length": 2
+    },
+    {
+      "name":"Engineering Mechanics",
+      "abbr": "BENG 117",
+      "type": "T",
+      "length": 2
+    },
+    {
+      "name":"Engineering Mathematics I",
+      "abbr": "BENG 124",
+      "type": "L",
+      "length": 2
+    },
+    {
+      "name":"Engineering Mathematics I",
+      "abbr": "BENG 124",
+      "type": "Clb",
+      "length": 2
+    },
+    {
+      "name":"Occupal & Environment Health and Safety",
+      "abbr": "BENG 145",
+      "type": "L",
+      "length": 2
+    },
+    {
+      "name":"Occupal & Environment Health and Safety",
+      "abbr": "BENG 145",
+      "type": "T",
+      "length": 2
+    },
+    {
+      "name":"Programming for Engineers",
+      "abbr": "BENG 146",
+      "type": "L",
+      "length": 2
+    },
+    {
+      "name":"Programming for Engineers",
+      "abbr": "BENG 146",
+      "type": "Clb",
+      "length": 2
+    },
+    {
+      "name":"Engineering Materials",
+      "abbr": "BENG 221",
+      "type": "L",
+      "length": 2
+    },
+    {
+      "name":"Engineering Materials",
+      "abbr": "BENG 221",
+      "type": "T",
+      "length": 2
+    }
+  ],
+  "groups":[
+    {
+      "name":"BENG 1",
+      "capacity":"225",
+      "type":"L"
+    },
+    {
+      "name":"BENG 2",
+      "capacity":"47",
+      "type":"T"
+    },
+    {
+      "name":"BENG 3",
+      "capacity":"47",
+      "type":"T"
+    },
+    {
+      "name":"BENG 4",
+      "capacity":"47",
+      "type":"T"
+    },
+    {
+      "name":"BENG 5",
+      "capacity":"47",
+      "type":"T"
+    },
+    {
+      "name":"BENG 6",
+      "capacity":"47",
+      "type":"T"
+    }
+  ],
+  "class_rooms":[
+    {
+      "name":"3.302",
+      "capacity":"80",
+      "type":"T"
+    },
+    {
+      "name":"6.522",
+      "capacity":"48",
+      "type":"Clb"
+    },
+    {
+      "name":"Orange Hall",
+      "capacity":"450",
+      "type":"L"
+    },
+    {
+      "name":"3.223",
+      "capacity":"60",
+      "type":"T"
+    },
+    {
+      "name":"3.221",
+      "capacity":"53",
+      "type":"T"
+    }
+  ],
+  "week_day":[
+    "M",
+    "T",
+    "W",
+    "R",
+    "F"
+  ],
+  "hours":[
+    "9-10",
+    "10-11",
+    "11-12",
+    "12-13",
+    "14-15",
+    "15-16",
+    "16-17",
+    "17-18"
+  ]
+}
